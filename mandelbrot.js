@@ -29,7 +29,7 @@ function draw(){
             var ca = a;
             var cb =b;
 
-            while(n<100){
+            while(n<maxiterations){
                 var aa = a*a -b*b;
                 var bb = 2 * a * b;
 

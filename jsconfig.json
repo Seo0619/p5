@@ -3,5 +3,5 @@
     "*.js",
     "libraries/*.js",
     "c:\\Users\\sjw05\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
-, "MineSweeper/Cell.js", "MineSweeper/minesweeper.js", "MineSweeper/queue.js"  ]
+, "MineSweeper/Cell.js", "MineSweeper/minesweeper.js", "MineSweeper/queue.js", "Planet/Space.js"  ]
 }
